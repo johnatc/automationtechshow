@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open the web application</description>
+   <name>bookticket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2068ca8-8c97-4d12-b5b1-03dae30aae81</testCaseGuid>
+</TestCaseEntity>
