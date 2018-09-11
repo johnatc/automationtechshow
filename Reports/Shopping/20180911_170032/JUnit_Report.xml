@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Shopping" time="1" tests="4" failures="0" errors="0">
+   <testsuite name="Shopping" tests="4" failures="0" errors="0" time="1" timestamp="2018-09-11 17:00:39" hostname="John.Wesley - ATC011" id="Test Suites/Shopping">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\Tech Show\\automation\\automationtechshow\\Reports\\Shopping\\20180911_170032"/>
+         <property name="logFiles" value="F:\\Tech Show\\automation\\automationtechshow\\Reports\\Shopping\\20180911_170032\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="John.Wesley - ATC011"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.7.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Login" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[2018-09-11 17:00:39 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+2018-09-11 17:00:40 - [TEST_STEP][PASSED] - Statement - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SearchProduct" classname="Test Cases/SearchProduct" status="PASSED">
+         <system-out><![CDATA[2018-09-11 17:00:40 - [TEST_CASE][PASSED] - Test Cases/SearchProduct: Test Cases/SearchProduct
+
+2018-09-11 17:00:40 - [TEST_STEP][PASSED] - Statement - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AddtoCart" classname="Test Cases/AddtoCart" status="PASSED">
+         <system-out><![CDATA[2018-09-11 17:00:40 - [TEST_CASE][PASSED] - Test Cases/AddtoCart: Test Cases/AddtoCart
+
+2018-09-11 17:00:40 - [TEST_STEP][PASSED] - Statement - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Checkout" classname="Test Cases/Checkout" status="PASSED">
+         <system-out><![CDATA[2018-09-11 17:00:40 - [TEST_CASE][PASSED] - Test Cases/Checkout: Test Cases/Checkout
+
+2018-09-11 17:00:40 - [TEST_STEP][PASSED] - Statement - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-11 17:00:39 - [TEST_SUITE][PASSED] - Shopping: Test Cases/Checkout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

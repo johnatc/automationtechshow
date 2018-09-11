@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Login as valid registered user</description>
+   <description>Log into valid account</description>
    <name>Login</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>13aa8197-6408-4686-88af-d7c6f319898a</testCaseGuid>
+   <testCaseGuid>f7f391c5-3a5f-457d-ba66-85c19efe39dc</testCaseGuid>
 </TestCaseEntity>
