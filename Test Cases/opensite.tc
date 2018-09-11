@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Book tickets between two locations</description>
-   <name>opensite</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>76918e93-2de7-4f95-a3c4-bba0f2e6818b</testCaseGuid>
-</TestCaseEntity>
