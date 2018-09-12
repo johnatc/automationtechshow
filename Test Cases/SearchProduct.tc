@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Search for a product</description>
-   <name>SearchProduct</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>6224f93f-547e-441b-996f-152955711456</testCaseGuid>
-</TestCaseEntity>

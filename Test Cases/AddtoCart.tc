@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Select a product and add to card</description>
-   <name>AddtoCart</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>d3b76f65-2e65-4e7b-98c6-65c802801d6c</testCaseGuid>
-</TestCaseEntity>
