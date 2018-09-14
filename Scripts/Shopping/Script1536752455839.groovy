@@ -21,9 +21,13 @@ WebUI.setText(findTestObject('Page_My Store/input_Call us now_search_query'), 'b
 
 WebUI.click(findTestObject('Page_My Store/button_Search'))
 
+WebUI.verifyElementVisible(findTestObject('Page_Blouse - My Store/span_Add to cart'))
+
 WebUI.click(findTestObject('Object Repository/Page_Search - My Store/span_Add to cart'))
 
 WebUI.takeScreenshot()
+
+WebUI.refresh()
 
 WebUI.navigateToUrl('http://automationpractice.com/index.php?controller=order')
 
