@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Create an account</name>
    <tag></tag>
-   <elementGuidId>4c55e1c2-ec19-4510-8967-6c7b71a2c486</elementGuidId>
+   <elementGuidId>e980873a-1e23-434b-b8a9-acdd71e3b745</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

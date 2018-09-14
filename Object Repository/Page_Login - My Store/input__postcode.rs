@@ -3,7 +3,7 @@
    <description></description>
    <name>input__postcode</name>
    <tag></tag>
-   <elementGuidId>cdbb341f-4f61-4e9a-aca0-be4015526b81</elementGuidId>
+   <elementGuidId>11dcde25-b3fc-4659-af0a-60f8737cf10e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register an user</description>
+   <name>User Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51ea631b-91ac-42dd-854b-b3b58d66bc98</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9d6acc5-a0d7-4105-a05a-4ff3083c5a1b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

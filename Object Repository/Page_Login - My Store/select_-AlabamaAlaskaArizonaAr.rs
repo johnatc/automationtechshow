@@ -3,7 +3,7 @@
    <description></description>
    <name>select_-AlabamaAlaskaArizonaAr</name>
    <tag></tag>
-   <elementGuidId>6059a067-963f-4f7e-9a8c-054cb988bcfd</elementGuidId>
+   <elementGuidId>95bdab33-b9bb-4032-976f-57fc2fd0353d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

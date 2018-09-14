@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Sign in (1)</name>
    <tag></tag>
-   <elementGuidId>eb9fcaa1-6434-4d93-8623-22e5d26b906c</elementGuidId>
+   <elementGuidId>04437c9c-d249-4621-917b-339754c50d22</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

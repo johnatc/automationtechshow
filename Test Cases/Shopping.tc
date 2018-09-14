@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search a product and shop</description>
+   <name>Shopping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e86d24e-9aae-40c7-b0f9-43e8ab5fa670</testCaseGuid>
+</TestCaseEntity>

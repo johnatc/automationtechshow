@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Register</name>
    <tag></tag>
-   <elementGuidId>e50a9a1c-3b25-40ae-942f-29b83425aca2</elementGuidId>
+   <elementGuidId>48f95eac-b9ff-452f-a10e-9527042348ce</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

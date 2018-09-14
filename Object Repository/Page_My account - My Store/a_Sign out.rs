@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Sign out</name>
    <tag></tag>
-   <elementGuidId>1a2c386d-6ebb-4c76-bc5d-3fe79d7aa51c</elementGuidId>
+   <elementGuidId>a4fc3ec1-d904-471e-aa41-3da62e1fdb59</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -73,7 +73,7 @@
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATC TCEOE'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joe Junior'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

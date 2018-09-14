@@ -3,7 +3,7 @@
    <description></description>
    <name>input__city</name>
    <tag></tag>
-   <elementGuidId>2e544cdb-a988-417e-9826-43a6ec22fda5</elementGuidId>
+   <elementGuidId>45570c47-d189-47d6-b1cb-25afa0bbe5fc</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

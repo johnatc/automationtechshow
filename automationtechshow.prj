@@ -3,6 +3,10 @@
    <description></description>
    <name>automationtechshow</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <type>PROJECT</type>
+   </integratedEntity>
    <UUID>ac643dc7-75ab-41d9-be81-fab3aed63e25</UUID>
    <migratedVersion>5.7.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>

@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Sign in</name>
    <tag></tag>
-   <elementGuidId>2ef5cfc9-1b67-42b9-b970-a38cd50f1b43</elementGuidId>
+   <elementGuidId>acac3d54-19db-48de-944e-6f5bfb6c8093</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

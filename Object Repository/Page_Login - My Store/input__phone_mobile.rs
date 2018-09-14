@@ -3,7 +3,7 @@
    <description></description>
    <name>input__phone_mobile</name>
    <tag></tag>
-   <elementGuidId>b7a7b788-e9e9-4cf0-aba0-f4799c65982a</elementGuidId>
+   <elementGuidId>5f814a9b-21b6-4858-a4e1-bfc32f3537b6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

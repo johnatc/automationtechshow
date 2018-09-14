@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Search</name>
    <tag></tag>
-   <elementGuidId>c19652a8-7fbc-4830-a901-22b957af0ba2</elementGuidId>
+   <elementGuidId>2d9d0ced-25b1-4709-bc65-cc998a883474</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
