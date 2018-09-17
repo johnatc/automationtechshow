@@ -4,7 +4,7 @@
    <name>Shopping</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-09-14T11:35:45</lastRun>
+   <lastRun>2018-09-17T15:00:56</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
