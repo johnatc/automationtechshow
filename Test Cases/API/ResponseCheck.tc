@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Check API Response</description>
-   <name>ResponseCheck</name>
-   <tag>responsecheck</tag>
-   <comment></comment>
-   <testCaseGuid>5d83afec-e9dd-4560-9a5b-d39558d5bfb1</testCaseGuid>
-</TestCaseEntity>

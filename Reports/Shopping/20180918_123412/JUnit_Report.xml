@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Shopping" time="45" tests="1" failures="0" errors="0">
+   <testsuite name="Shopping" tests="1" failures="0" errors="0" time="45" timestamp="2018-09-18 12:34:29" hostname="John.Wesley - ATC011" id="Test Suites/Shopping">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\Tech Show\\automation\\automationtechshow\\Reports\\Shopping\\20180918_123412"/>
+         <property name="logFiles" value="F:\\Tech Show\\automation\\automationtechshow\\Reports\\Shopping\\20180918_123412\\execution0.log"/>
+         <property name="attachments" value="F:\\Tech Show\\automation\\automationtechshow\\Reports\\Shopping\\20180918_123412\\1537254293510.png"/>
+         <property name="hostName" value="John.Wesley - ATC011"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.7.0.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="fd09526905eadcc2aad281262f125a16"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/Shopping" classname="Test Cases/Shopping" status="PASSED">
+         <system-out><![CDATA[2018-09-18 12:34:29 - [TEST_CASE][PASSED] - Test Cases/Shopping: Test Cases/Shopping
+
+2018-09-18 12:34:30 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-18 12:34:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-18 12:34:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://automationpractice.com/index.php' successfully
+
+2018-09-18 12:34:50 - [MESSAGE][PASSED] - Navigate to 'http://automationpractice.com/index.php' successfully
+
+2018-09-18 12:34:50 - [TEST_STEP][PASSED] - setText: Text 'blouse' is set on object 'Object Repository/Page_My Store/input_Call us now_search_query'
+
+2018-09-18 12:34:51 - [MESSAGE][PASSED] - Text 'blouse' is set on object 'Object Repository/Page_My Store/input_Call us now_search_query'
+
+2018-09-18 12:34:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_My Store/button_Search' is clicked on
+
+2018-09-18 12:34:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My Store/button_Search' is clicked on
+
+2018-09-18 12:34:53 - [TEST_STEP][PASSED] - verifyElementVisible: Object 'Object Repository/Page_Blouse - My Store/span_Add to cart' is visible
+
+2018-09-18 12:34:53 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Blouse - My Store/span_Add to cart' is visible
+
+2018-09-18 12:34:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Search - My Store/span_Add to cart' is clicked on
+
+2018-09-18 12:34:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Search - My Store/span_Add to cart' is clicked on
+
+2018-09-18 12:34:53 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-18 12:34:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|F:\\Tech Show\\automation\\automationtechshow\\Reports\\Shopping\\20180918_123412\\1537254293510.png]]
+
+2018-09-18 12:34:53 - [TEST_STEP][PASSED] - refresh: Refresh successfully
+
+2018-09-18 12:34:55 - [MESSAGE][PASSED] - Refresh successfully
+
+2018-09-18 12:34:55 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://automationpractice.com/index.php?controller=order' successfully
+
+2018-09-18 12:34:57 - [MESSAGE][PASSED] - Navigate to 'http://automationpractice.com/index.php?controller=order' successfully
+
+2018-09-18 12:34:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Order - My Store/span_Proceed to checkout (1)' is clicked on
+
+2018-09-18 12:35:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Order - My Store/span_Proceed to checkout (1)' is clicked on
+
+2018-09-18 12:35:00 - [TEST_STEP][PASSED] - setText: Text 'atctcoe@gmail.com' is set on object 'Object Repository/Page_Login - My Store/input_Email address_email (2)'
+
+2018-09-18 12:35:00 - [MESSAGE][PASSED] - Text 'atctcoe@gmail.com' is set on object 'Object Repository/Page_Login - My Store/input_Email address_email (2)'
+
+2018-09-18 12:35:00 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Login - My Store/input_Password_passwd (2)'
+
+2018-09-18 12:35:00 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login - My Store/input_Password_passwd (2)'
+
+2018-09-18 12:35:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Login - My Store/span_Sign in (2)' is clicked on
+
+2018-09-18 12:35:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login - My Store/span_Sign in (2)' is clicked on
+
+2018-09-18 12:35:04 - [TEST_STEP][PASSED] - setText: Text 'This is a gift' is set on object 'Object Repository/Page_Order - My Store/textarea_If you would like to (1)'
+
+2018-09-18 12:35:04 - [MESSAGE][PASSED] - Text 'This is a gift' is set on object 'Object Repository/Page_Order - My Store/textarea_If you would like to (1)'
+
+2018-09-18 12:35:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Order - My Store/span_Proceed to checkout (1)' is clicked on
+
+2018-09-18 12:35:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Order - My Store/span_Proceed to checkout (1)' is clicked on
+
+2018-09-18 12:35:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Order - My Store/input_2.00_cgv (1)' is clicked on
+
+2018-09-18 12:35:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Order - My Store/input_2.00_cgv (1)' is clicked on
+
+2018-09-18 12:35:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Order - My Store/span_Proceed to checkout_1 (1)' is clicked on
+
+2018-09-18 12:35:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Order - My Store/span_Proceed to checkout_1 (1)' is clicked on
+
+2018-09-18 12:35:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Order - My Store/a_Pay by bank wire (order proc (1)' is clicked on
+
+2018-09-18 12:35:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Order - My Store/a_Pay by bank wire (order proc (1)' is clicked on
+
+2018-09-18 12:35:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_My Store/span_I confirm my order (1)' is clicked on
+
+2018-09-18 12:35:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My Store/span_I confirm my order (1)' is clicked on
+
+2018-09-18 12:35:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Order confirmation - My Store/a_Sign out (1)' is clicked on
+
+2018-09-18 12:35:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Order confirmation - My Store/a_Sign out (1)' is clicked on
+
+2018-09-18 12:35:14 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-18 12:35:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-18 12:34:29 - [TEST_SUITE][PASSED] - Shopping: Test Cases/Shopping]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

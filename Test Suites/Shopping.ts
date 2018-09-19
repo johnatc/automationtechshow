@@ -4,7 +4,7 @@
    <name>Shopping</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-09-17T15:00:56</lastRun>
+   <lastRun>2018-09-18T15:00:53</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>db2f929c-bfd8-409b-9b56-a91f6a4a44bb</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Login</testCaseId>
    </testCaseLink>
    <testCaseLink>
